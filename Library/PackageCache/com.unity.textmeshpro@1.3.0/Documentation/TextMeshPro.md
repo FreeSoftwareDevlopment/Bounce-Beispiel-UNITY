@@ -16,16 +16,16 @@ To import the "*TMP Examples & Extras*", please use the "*Window -> TextMeshPro 
 #### **Quick Start**
 There are two TextMesh Pro components available. The first TMP text component is of type &lt;TextMeshPro&gt; and designed to work with the MeshRenderer. This component is an ideal replacement for the legacy TextMesh component. 
 
-To add a new &lt;TextMeshPro&gt; text object, go to: ì*GameObject->3D Object->TextMeshPro Text*î. 
+To add a new &lt;TextMeshPro&gt; text object, go to: ‚Äú*GameObject->3D Object->TextMeshPro Text*‚Äù. 
 
 The second TMP text component is of type  &lt;TextMeshProUGUI&gt; and designed to work with the CanvasRenderer and Canvas system. This component is an ideal replacement for the UI.Text component. 
 
-To add a new &lt;TextMeshProUGUI&gt; text object, go to: ì*GameObject->UI->TextMeshPro Text*î. 
+To add a new &lt;TextMeshProUGUI&gt; text object, go to: ‚Äú*GameObject->UI->TextMeshPro Text*‚Äù. 
 
 You may also wish to watch this [Getting Started](https://youtu.be/olnxlo-Wri4) short video which covers this topic.
 
 We strongly recommend that you also watch the [Font Asset Creation](https://youtu.be/qzJNIGCFFtY) video as well as the [Working with Material Presets](https://youtu.be/d2MARbDNeaA) as these two topics is also key to working and getting the most out of TextMesh Pro. 
-
+ 
 As mentionned in the Installation section of this guide, it is recommended that you import the "*TMP Examples & Extras*" and take the time to explore each of the examples as they provide a great overview of the functionality of the tool and the many text layout and [rich text tags](http://digitalnativestudios.com/textmeshpro/docs/rich-text/) available in TextMesh Pro.
 
 #### **Support & API Documentation**
